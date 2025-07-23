@@ -1,3 +1,59 @@
 {
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "DuoDark",
+  "description": "Duolingo app inspired firefox theme",
+  
+  "theme": {
+    "colors": {
+        "frame": "#0B1316",
+        "toolbar": "#121F25",
+        "toolbar_text": "#F2F6FC",
+        
+        "toolbar_field": "#121F25",
+        "toolbar_field_text": "#F2F6FC",
+        "toolbar_field_border": "#212F37",
+        
+        "tab_background": "121F25",
+        "tab_background_text": "#cccccc",
+        "tab_background_hover": "#ffffff",
+        "tab_background_selected": "#ffffff",
+
+        "ntp_background": "#ffffff",
+        "ntp_text": "#F2F6FC",      
+        
+        "popup": "#1A2B33",
+        "popup_text": "#F2F6FC",
+        "popup_highlight_text": "#FFFFFF",
+        "menupopup": "#1A2B33",
+        "menuitem_non_iconic": "#F2F6FC",
+        "menu_background_hover": "#2F3F47",
+        "menu_text_hover": "#FFFFFF",
+        
+        "sidebar": "#121F25",
+        "sidebar_text": "#F2F6FC",
+
+
+        "popup_border": "#212F37",
+        "popup_highlight": "#212F37",
+        "tab_line": "#212F37",
+        "toolbar_vertical_separator": "#212F37",
+        "divider": "#212F37",
+        "toolbar_button_icon": "#212F37",
+
+         "button_background_hover": "#1A2B33",
+        "button_background_active": "#2F3F47",
+        "icons": "#F2F6FC",
+        "icons_attention": "#4A9EFF"
+    },
     
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  },
+  
+  "icons": {
+    "48": "/icons/icon-48.png"
+  }
 }
