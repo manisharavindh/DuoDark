@@ -10,14 +10,15 @@
         "toolbar": "#121F25",
         "toolbar_text": "#F2F6FC",
         
-        "toolbar_field": "#121F25",
+        "toolbar_field": "#202F36",
         "toolbar_field_text": "#F2F6FC",
-        "toolbar_field_border": "#212F37",
+        "toolbar_field_border": "#202F36",
         
         "tab_background": "121F25",
         "tab_background_text": "#cccccc",
         "tab_background_hover": "#ffffff",
         "tab_background_selected": "#ffffff",
+        "tab_selected": "#202F36",
 
         "ntp_background": "#ffffff",
         "ntp_text": "#F2F6FC",      
